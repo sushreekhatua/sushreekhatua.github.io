@@ -6,6 +6,26 @@
 ## SUMMARY
 Motivated young professional with an exemplary academic record and passion to progress as well as having strong collaboration with proficiency at grasping new technical concepts quickly & utilize the same in a productive manner.
 
+## EDUCATION
+_July 2011-2015_
+Bachelor of Engineering.Specialization in Civil Engineering From Biju Pattanaik Institute of Engineering & Management Studies,India
+
+-Fluid Mechanics & Hydraulic Machines
+-Building Materials & Construction
+-Structural Analysis
+-Surveying
+-Geo-Technology Engineering
+-Transportation Engineering
+-Remote Sensing & GIS
+-Irrigation Engineering
+-Environmental Engineering & Safety
+-Traffic Engineering & Transportation Planning
+-Foundation Engineering
+-Water Resource Engineering
+-Design of Concrete & Steel Structure
+
+
+
    
 
 You can use the [editor on GitHub](https://github.com/sushreekhatua/sushreekhatua.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
