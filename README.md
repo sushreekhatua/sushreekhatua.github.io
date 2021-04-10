@@ -8,7 +8,7 @@ Motivated young professional with an exemplary academic record and passion to pr
 
  ## EDUCATION
 _July 2011-2015_
-Bachelor of Engineering.Specialization in Civil Engineering From Biju Pattanaik Institute of Engineering & Management Studies,India
+- Bachelor of Engineering.Specialization in Civil Engineering From Biju Pattanaik Institute of Engineering & Management Studies,India
 
 ## TECHNICAL SKILLS
 ### Operating Systems
