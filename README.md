@@ -10,19 +10,19 @@ Motivated young professional with an exemplary academic record and passion to pr
 _July 2011-2015_
 Bachelor of Engineering.Specialization in Civil Engineering From Biju Pattanaik Institute of Engineering & Management Studies,India
 
--Fluid Mechanics & Hydraulic Machines
--Building Materials & Construction
--Structural Analysis
--Surveying
--Geo-Technology Engineering
--Transportation Engineering
--Remote Sensing & GIS
--Irrigation Engineering
--Environmental Engineering & Safety
--Traffic Engineering & Transportation Planning
--Foundation Engineering
--Water Resource Engineering
--Design of Concrete & Steel Structure
+- Fluid Mechanics & Hydraulic Machines
+- Building Materials & Construction
+- Structural Analysis
+- Surveying
+- Geo-Technology Engineering
+- Transportation Engineering
+- Remote Sensing & GIS
+- Irrigation Engineering
+- Environmental Engineering & Safety
+- Traffic Engineering & Transportation Planning
+- Foundation Engineering
+- Water Resource Engineering
+- Design of Concrete & Steel Structure
 
 
 
