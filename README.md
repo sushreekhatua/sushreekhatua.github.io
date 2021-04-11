@@ -1,4 +1,4 @@
-## CONTACT INFO
+## CONTACT
 - sushree.sadhana@gmail.com
 - +46790519706
 - Stockholm,Sweden
